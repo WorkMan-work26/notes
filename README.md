@@ -11,6 +11,9 @@ https://pl-coding.com/blog
 # handle permissions in jetpack compose
 https://github.com/stevdza-san/PermissionsComposeDemo
 
+# UI state and UI events in jetpack compose
+https://www.youtube.com/watch?v=TzA049PAlSs
+
 
 
 
